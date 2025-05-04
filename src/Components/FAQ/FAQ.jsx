@@ -42,8 +42,8 @@ const FAQ = () => {
       </div>
 
 
-      <div className="grid md:grid-cols-2 gap-20 mt-10">
-        <div className="grid gap-10 ">
+      <div className="grid md:grid-cols-2 gap-8 md:gap-20  mt-10">
+        <div className="grid gap-8 md:gap-10 ">
           <Accordion open={open === 1} icon={<Icon id={1} open={open} />}>
             <AccordionHeader onClick={() => handleOpen(1)}> <span className="md:text-2xl text-sm cursor-zoom-out">What is StreamVibe??</span></AccordionHeader>
             <AccordionBody className={"text-zinc-300 mt-2"}>
@@ -73,7 +73,7 @@ const FAQ = () => {
           </Accordion>
         </div>
 
-        <div className="grid gap-10 ">
+        <div className="grid gap-8 md:gap-10 ">
           <Accordion open={open === 5} icon={<Icon id={5} open={open} />}>
             <AccordionHeader onClick={() => handleOpen(5)}> <span className="md:text-2xl text-sm cursor-pointer">How do I sign up for StreamVibe?</span></AccordionHeader>
             <AccordionBody className={"text-zinc-300 mt-2"}>

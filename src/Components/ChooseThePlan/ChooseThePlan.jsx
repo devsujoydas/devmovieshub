@@ -21,7 +21,7 @@ const ChooseThePlan = () => {
         },
     ]
     return (
-        <div className="md:mx-40 mx-5">
+        <div className="md:mx-40 mx-5 md:py-0 py-10">
             <div className="flex justify-between items-center md:flex-row flex-col gap-5 ">
                 <div className="space-y-6">
                     <h1 className="md:text-4xl text-3xl">Choose the plan that's right for you</h1>

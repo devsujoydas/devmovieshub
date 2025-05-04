@@ -42,5 +42,5 @@
     @apply hover:text-[#FF014F] w-fit duration-300 transition-all
 }
 .categories-btn{
-    @apply text-xl p-3 rounded-md bg-[#3535358f] active:scale-95 hover:bg-[#3535356b] active:bg-transparent  cursor-pointer
+    @apply md:text-xl p-3 rounded-md bg-[#3535358f] active:scale-95 hover:bg-[#3535356b] active:bg-transparent  cursor-pointer
 }

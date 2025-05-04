@@ -45,7 +45,7 @@ const Categories = () => {
                     <h1 className="md:text-4xl text-3xl ">Explore our wide variety of categories</h1>
                     <p className="text-zinc-400 md:text-lg font-light">Whether you're looking for a comedy to make you laugh, a drama to make you think, or a documentary to learn something new</p>
                 </div>
-                <div className="space-x-6 bg-[#000000] p-2">
+                <div className="space-x-6 bg-[#000000] p-2 md:mt-0 mt-2">
                     <button className="categories-btn"><FaArrowLeft /></button>
                     <button className="categories-btn"><IoMdArrowForward /></button>
                 </div>
