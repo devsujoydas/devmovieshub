@@ -1,10 +1,10 @@
 import { FaArrowLeft } from "react-icons/fa";
 import { IoMdArrowForward } from "react-icons/io";
-import ActionImg from "../../../public/assets/movies-page-images/Our Genres/Container (1).png"
-import AdventureImg from "../../../public/assets/movies-page-images/Our Genres/Container (2).png"
-import ComedyImg from "../../../public/assets/movies-page-images/Our Genres/Container (3).png"
-import DramaImg from "../../../public/assets/movies-page-images/Our Genres/Container (4).png"
-import HorrorImg from "../../../public/assets/movies-page-images/Our Genres/Container (5).png"
+import ActionImg from "/assets/movies-page-images/Movies/Our Genres/Container (1).png";
+import AdventureImg from "/assets/movies-page-images/Movies/Our Genres/Container (2).png";
+import ComedyImg from "/assets/movies-page-images/Movies/Our Genres/Container (3).png"
+import DramaImg from "/assets/movies-page-images/Movies/Our Genres/Container (4).png"
+import HorrorImg from "/assets/movies-page-images/Movies/Our Genres/Container (5).png"
 import Categorie from "./Categorie";
 
 const Categories = () => {
@@ -39,20 +39,20 @@ const Categories = () => {
     ]
 
     return (
-        <div className="md:mx-40 mx-5">
-            <div className="h-80 w-full flex items-center justify-between   bg-cover">
-                <div className="space-y-6">
-                    <h1 className="text-4xl ">Explore our wide variety of categories</h1>
-                    <p className="text-[#ffffffad]">Whether you're looking for a comedy to make you laugh, a drama to make you think, or a documentary to learn something new</p>
+        <div className="md:mx-40 mx-5 py-10 lg:py-20 space-y-14">
+            <div className=" w-full flex md:flex-row flex-col items-center justify-between">
+                <div className="space-y-5">
+                    <h1 className="md:text-4xl text-3xl ">Explore our wide variety of categories</h1>
+                    <p className="text-zinc-400 md:text-lg font-light">Whether you're looking for a comedy to make you laugh, a drama to make you think, or a documentary to learn something new</p>
                 </div>
-                <div className="space-x-6">
+                <div className="space-x-6 bg-[#000000] p-2">
                     <button className="categories-btn"><FaArrowLeft /></button>
                     <button className="categories-btn"><IoMdArrowForward /></button>
                 </div>
             </div>
 
 
-            <div className="grid grid-cols-5 gap-5 mt-20">
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-5 ">
                 {categories.map((categorie, idx) => <Categorie categorie={categorie} key={idx} />)}
             </div>
         </div>

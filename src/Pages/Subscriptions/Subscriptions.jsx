@@ -4,7 +4,7 @@ import ChooseThePlan from '../../Components/ChooseThePlan/ChooseThePlan'
 
 const Subscriptions = () => {
   return (
-    <div className='pt-20'>
+    <div className='pt-40'>
       <ChooseThePlan />
       <StartYourFreeTial />
     </div>

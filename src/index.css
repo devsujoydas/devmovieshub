@@ -1,9 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+@import "tailwindcss";
 
 .font-poppins{
     font-family: "Poppins", sans-serif;
+}
+.font-manrope{
+    font-family: "Manrope", sans-serif;
 }
 
 .active {
@@ -39,5 +42,5 @@
     @apply hover:text-[#FF014F] w-fit duration-300 transition-all
 }
 .categories-btn{
-    @apply text-xl p-3 rounded-full bg-[#3535358f] active:scale-95 hover:bg-transparent border border-zinc-500 cursor-pointer
+    @apply text-xl p-3 rounded-md bg-[#3535358f] active:scale-95 hover:bg-[#3535356b] active:bg-transparent  cursor-pointer
 }
