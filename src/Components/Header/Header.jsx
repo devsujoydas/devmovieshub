@@ -19,7 +19,7 @@ const Header = () => {
 
           <div className="relative overflow-hidden">
             <a href="/" className=''>
-              <img className='' src="../../../public/assets/images/Logo.png" alt="" />
+              <img className='' src="/assets/images/Logo.png" alt="" />
             </a>
           </div>
 
@@ -57,7 +57,7 @@ const Header = () => {
             <div className="flex justify-between items-center py-5 ">
               <div className="relative overflow-hidden">
                 <a href="/" className=''>
-                  <img className='' src="/public/assets/images/Logo.png" alt="" />
+                  <img className='' src="/assets/images/Logo.png" alt="" />
                 </a>
               </div>
               <div onClick={() => setHumbarger(!humbarger)} className="lg:hidden block text-4xl">

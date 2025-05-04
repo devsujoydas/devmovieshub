@@ -43,61 +43,61 @@ const FAQ = () => {
 
 
       <div className="grid md:grid-cols-2 gap-20 mt-10">
-        <div className="grid gap-5 ">
+        <div className="grid gap-10 ">
           <Accordion open={open === 1} icon={<Icon id={1} open={open} />}>
-            <AccordionHeader onClick={() => handleOpen(1)}> <span className="md:text-xl text-sm">What is StreamVibe??</span></AccordionHeader>
-            <AccordionBody className={"text-zinc-300"}>
+            <AccordionHeader onClick={() => handleOpen(1)}> <span className="md:text-2xl text-sm cursor-zoom-out">What is StreamVibe??</span></AccordionHeader>
+            <AccordionBody className={"text-zinc-300 mt-2"}>
               StreamVibe is a streaming service that allows you to watch movies and shows on demand.
             </AccordionBody>
           </Accordion>
 
           <Accordion open={open === 2} icon={<Icon id={2} open={open} />}>
-            <AccordionHeader onClick={() => handleOpen(2)}> <span className="md:text-xl text-sm">How much does StreamVibe cost??</span></AccordionHeader>
-            <AccordionBody className={"text-zinc-300"}>
+            <AccordionHeader onClick={() => handleOpen(2)}> <span className="md:text-2xl text-sm cursor-pointer">How much does StreamVibe cost??</span></AccordionHeader>
+            <AccordionBody className={"text-zinc-300 mt-2"}>
               StreamVibe is a streaming service that allows you to watch movies and shows on demand.
             </AccordionBody>
           </Accordion>
 
           <Accordion open={open === 3} icon={<Icon id={3} open={open} />}>
-            <AccordionHeader onClick={() => handleOpen(3)}> <span className="md:text-xl text-sm">What content is available on StreamVibe?</span></AccordionHeader>
-            <AccordionBody className={"text-zinc-300"}>
+            <AccordionHeader onClick={() => handleOpen(3)}> <span className="md:text-2xl text-sm cursor-pointer">What content is available on StreamVibe?</span></AccordionHeader>
+            <AccordionBody className={"text-zinc-300 mt-2"}>
               StreamVibe is a streaming service that allows you to watch movies and shows on demand.
             </AccordionBody>
           </Accordion>
 
           <Accordion open={open === 4} icon={<Icon id={4} open={open} />}>
-            <AccordionHeader onClick={() => handleOpen(4)}> <span className="md:text-xl text-sm">How can I watch StreamVibe?</span></AccordionHeader>
-            <AccordionBody className={"text-zinc-300"}>
+            <AccordionHeader onClick={() => handleOpen(4)}> <span className="md:text-2xl text-sm cursor-pointer">How can I watch StreamVibe?</span></AccordionHeader>
+            <AccordionBody className={"text-zinc-300 mt-2"}>
               StreamVibe is a streaming service that allows you to watch movies and shows on demand.
             </AccordionBody>
           </Accordion>
         </div>
 
-        <div className="grid gap-5 ">
+        <div className="grid gap-10 ">
           <Accordion open={open === 5} icon={<Icon id={5} open={open} />}>
-            <AccordionHeader onClick={() => handleOpen(5)}> <span className="md:text-xl text-sm">How do I sign up for StreamVibe?</span></AccordionHeader>
-            <AccordionBody className={"text-zinc-300"}>
+            <AccordionHeader onClick={() => handleOpen(5)}> <span className="md:text-2xl text-sm cursor-pointer">How do I sign up for StreamVibe?</span></AccordionHeader>
+            <AccordionBody className={"text-zinc-300 mt-2"}>
               StreamVibe is a streaming service that allows you to watch movies and shows on demand.
             </AccordionBody>
           </Accordion>
 
           <Accordion open={open === 6} icon={<Icon id={6} open={open} />}>
-            <AccordionHeader onClick={() => handleOpen(6)}> <span className="md:text-xl text-sm">What is the StreamVibe free trial?</span></AccordionHeader>
-            <AccordionBody className={"text-zinc-300"}>
+            <AccordionHeader onClick={() => handleOpen(6)}> <span className="md:text-2xl text-sm cursor-pointer">What is the StreamVibe free trial?</span></AccordionHeader>
+            <AccordionBody className={"text-zinc-300 mt-2"}>
               StreamVibe is a streaming service that allows you to watch movies and shows on demand.
             </AccordionBody>
           </Accordion>
 
           <Accordion open={open === 7} icon={<Icon id={7} open={open} />}>
-            <AccordionHeader onClick={() => handleOpen(7)}> <span className="md:text-xl text-sm">How do I contact StreamVibe customer support?</span></AccordionHeader>
-            <AccordionBody className={"text-zinc-300"}>
+            <AccordionHeader onClick={() => handleOpen(7)}> <span className="md:text-2xl text-sm cursor-pointer">How do I contact StreamVibe customer support?</span></AccordionHeader>
+            <AccordionBody className={"text-zinc-300 mt-2"}>
               StreamVibe is a streaming service that allows you to watch movies and shows on demand.
             </AccordionBody>
           </Accordion>
 
           <Accordion open={open === 8} icon={<Icon id={8} open={open} />}>
-            <AccordionHeader onClick={() => handleOpen(8)}> <span className="md:text-xl text-sm">What are the StreamVibe payment methods?</span></AccordionHeader>
-            <AccordionBody className={"text-zinc-300"}>
+            <AccordionHeader onClick={() => handleOpen(8)}> <span className="md:text-2xl text-sm cursor-pointer">What are the StreamVibe payment methods?</span></AccordionHeader>
+            <AccordionBody className={"text-zinc-300 mt-2"}>
               StreamVibe is a streaming service that allows you to watch movies and shows on demand.
             </AccordionBody>
           </Accordion>

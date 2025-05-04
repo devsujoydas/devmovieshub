@@ -7,7 +7,7 @@ const HeroHome = () => {
             <div className='bg-[#050101bb]  w-full  h-[98vh] flex gap-5 justify-center items-center flex-col'>
 
                 <div className="md:mt-10 relative flex justify-center items-center">
-                    <img className="lg:w-2/3 w-3/5" src="/public/assets/home-page-images/Abstract Design.png" alt="" />
+                    <img className="lg:w-2/3 w-3/5" src="/assets/home-page-images/Abstract Design.png" alt="" />
                 </div>
 
                 <div className="flex flex-col justify-center gap-5 items-center md:space-y-5 ">
