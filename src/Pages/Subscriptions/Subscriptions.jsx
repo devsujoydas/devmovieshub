@@ -1,8 +1,13 @@
 import React from 'react'
+import StartYourFreeTial from '../../Components/StartYourFreeTial/StartYourFreeTial'
+import ChooseThePlan from '../../Components/ChooseThePlan/ChooseThePlan'
 
 const Subscriptions = () => {
   return (
-    <div className='min-h-56 '>Subscriptions</div>
+    <div className='pt-20'>
+      <ChooseThePlan />
+      <StartYourFreeTial />
+    </div>
   )
 }
 

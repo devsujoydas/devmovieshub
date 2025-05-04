@@ -18,7 +18,7 @@ const Header = () => {
         <div className="flex justify-between items-center  md:px-0 px-5">
           <div className="relative overflow-hidden">
             <a href="/" className=''>
-              <img className='' src="/assets/Logo.png" alt="" />
+              <img className='' src="../../../public/assets/images/Logo.png" alt="" />
             </a>
           </div>
 

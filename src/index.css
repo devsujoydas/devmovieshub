@@ -38,3 +38,6 @@
 .footer-link{
     @apply hover:text-[#FF014F] w-fit duration-300 transition-all
 }
+.categories-btn{
+    @apply text-xl p-3 rounded-full bg-[#3535358f] active:scale-95 hover:bg-transparent border border-zinc-500 cursor-pointer
+}
