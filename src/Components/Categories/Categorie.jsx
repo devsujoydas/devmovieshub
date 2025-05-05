@@ -8,11 +8,11 @@ const Categorie = ({ categorie }) => {
 
     const { image, title, categorieURL } = categorie;
     return (
-        <div className="border border-zinc-800 bg-[#38383863] w-fit md:p-8 pb-2 p-4 rounded-xl md:space-y-4 ">
+        <div className="border border-zinc-800 bg-[#38383863] md:p-8 pb-2 p-4 rounded-xl md:space-y-4 ">
             <div>
                 {/* <a href={`/${categorieURL}`} className=''> */}
                 <Link to={"/movies"}>
-                    <img src={image} alt="" />
+                    <img className='w-full' src={image} alt="" />
                 </Link>
             </div>
             <div className="flex justify-between items-center pt-1">
