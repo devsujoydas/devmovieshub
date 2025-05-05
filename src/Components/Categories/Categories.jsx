@@ -38,6 +38,7 @@ const Categories = () => {
 
     ]
 
+    
     return (
         <div className="md:mx-40 mx-5 py-10 lg:py-20 space-y-14">
             <div className=" w-full flex md:flex-row flex-col items-center justify-between">
