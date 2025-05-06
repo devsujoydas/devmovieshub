@@ -1,0 +1,101 @@
+[
+    {
+      "image": "https://example.com/images/ironman1.jpg",
+      "title": "Iron Man",
+      "movieDuration": "2h 6m",
+      "description": "After being held captive in an Afghan cave...",
+      "cast": "",
+      "releasedDate": "2008-05-02",
+      "rating": 7.9,
+      "genres": ["Action", "Sci-Fi"],
+      "director": "Jon Favreau"
+    },
+    {
+      "image": "https://example.com/images/ironman2.jpg",
+      "title": "Iron Man 2",
+      "movieDuration": "2h 4m",
+      "description": "With the world now aware of his identity...",
+      "cast": "",
+      "releasedDate": "2010-05-07",
+      "rating": 7.0,
+      "genres": ["Action", "Sci-Fi"],
+      "director": "Jon Favreau"
+    },
+    {
+      "image": "https://example.com/images/ironman3.jpg",
+      "title": "Iron Man 3",
+      "movieDuration": "2h 10m",
+      "description": "When Tony Stark's world is torn apart...",
+      "cast": "",
+      "releasedDate": "2013-05-03",
+      "rating": 7.2,
+      "genres": ["Action", "Sci-Fi"],
+      "director": "Shane Black"
+    },
+    {
+      "image": "https://example.com/images/spiderman_homecoming.jpg",
+      "title": "Spider-Man: Homecoming",
+      "movieDuration": "2h 13m",
+      "description": "Peter Parker balances his life...",
+      "cast": "",
+      "releasedDate": "2017-07-07",
+      "rating": 7.4,
+      "genres": ["Action", "Adventure"],
+      "director": "Jon Watts"
+    },
+    {
+      "image": "https://example.com/images/spiderman_farfromhome.jpg",
+      "title": "Spider-Man: Far From Home",
+      "movieDuration": "2h 9m",
+      "description": "Following the events of Avengers...",
+      "cast": "",
+      "releasedDate": "2019-07-02",
+      "rating": 7.5,
+      "genres": ["Action", "Adventure"],
+      "director": "Jon Watts"
+    },
+    {
+      "image": "https://example.com/images/doctor_strange.jpg",
+      "title": "Doctor Strange",
+      "movieDuration": "1h 55m",
+      "description": "While on a journey of physical...",
+      "cast": "",
+      "releasedDate": "2016-11-04",
+      "rating": 7.5,
+      "genres": ["Action", "Fantasy"],
+      "director": "Scott Derrickson"
+    },
+    {
+      "image": "https://example.com/images/thor.jpg",
+      "title": "Thor",
+      "movieDuration": "1h 54m",
+      "description": "The powerful but arrogant god Thor...",
+      "cast": "",
+      "releasedDate": "2011-05-06",
+      "rating": 7.0,
+      "genres": ["Action", "Fantasy"],
+      "director": "Kenneth Branagh"
+    },
+    {
+      "image": "https://example.com/images/antman.jpg",
+      "title": "Ant-Man",
+      "movieDuration": "1h 57m",
+      "description": "Armed with a super-suit...",
+      "cast": "",
+      "releasedDate": "2015-07-17",
+      "rating": 7.3,
+      "genres": ["Action", "Comedy"],
+      "director": "Peyton Reed"
+    },
+    {
+      "image": "https://example.com/images/antman_and_the_wasp.jpg",
+      "title": "Ant-Man and The Wasp",
+      "movieDuration": "1h 58m",
+      "description": "As Scott Lang balances...",
+      "cast": "",
+      "releasedDate": "2018-07-06",
+      "rating": 7.1,
+      "genres": ["Action", "Comedy"],
+      "director": "Peyton Reed"
+    }
+  ]
