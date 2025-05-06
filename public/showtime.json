@@ -1,0 +1,94 @@
+[
+    {
+      "title": "Stranger Things",
+      "type": "Show",
+      "image": "https://example.com/images/stranger_things.jpg",
+      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments...",
+      "totalSeasons": 4,
+      "totalEpisodes": 34,
+      "episodeDuration": "50m",
+      "totalRuntime": "28h 20m",
+      "cast": [
+        {
+          "name": "Millie Bobby Brown",
+          "character": "Eleven",
+          "castImg": "https://example.com/cast/millie_bobby_brown.jpg"
+        }
+      ],
+      "firstReleased": "2016-07-15",
+      "lastReleased": "2022-07-01",
+      "rating": 8.7,
+      "genres": ["Sci-Fi", "Horror"],
+      "streamingOn": ["Netflix"],
+      "languages": ["English"]
+    },
+    {
+      "title": "Money Heist",
+      "type": "Show",
+      "image": "https://example.com/images/money_heist.jpg",
+      "description": "An unusual group of robbers attempt to carry out the most perfect robbery...",
+      "totalSeasons": 5,
+      "totalEpisodes": 41,
+      "episodeDuration": "45m",
+      "totalRuntime": "30h 45m",
+      "cast": [
+        {
+          "name": "Úrsula Corberó",
+          "character": "Tokyo",
+          "castImg": "https://example.com/cast/ursula_corbero.jpg"
+        }
+      ],
+      "firstReleased": "2017-05-02",
+      "lastReleased": "2021-12-03",
+      "rating": 8.2,
+      "genres": ["Crime", "Thriller"],
+      "streamingOn": ["Netflix"],
+      "languages": ["Spanish"]
+    },
+    {
+      "title": "Mirzapur",
+      "type": "Show",
+      "image": "https://example.com/images/mirzapur.jpg",
+      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don...",
+      "totalSeasons": 2,
+      "totalEpisodes": 19,
+      "episodeDuration": "45m",
+      "totalRuntime": "14h 15m",
+      "cast": [
+        {
+          "name": "Pankaj Tripathi",
+          "character": "Kaleen Bhaiya",
+          "castImg": "https://example.com/cast/pankaj_tripathi.jpg"
+        }
+      ],
+      "firstReleased": "2018-11-16",
+      "lastReleased": "2020-10-23",
+      "rating": 8.4,
+      "genres": ["Crime", "Drama"],
+      "streamingOn": ["Amazon Prime Video"],
+      "languages": ["Hindi"]
+    },
+    {
+      "title": "Peaky Blinders",
+      "type": "Show",
+      "image": "https://example.com/images/peaky_blinders.jpg",
+      "description": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby...",
+      "totalSeasons": 6,
+      "totalEpisodes": 36,
+      "episodeDuration": "55m",
+      "totalRuntime": "33h",
+      "cast": [
+        {
+          "name": "Cillian Murphy",
+          "character": "Thomas Shelby",
+          "castImg": "https://example.com/cast/cillian_murphy.jpg"
+        }
+      ],
+      "firstReleased": "2013-09-12",
+      "lastReleased": "2022-04-03",
+      "rating": 8.8,
+      "genres": ["Crime", "Drama"],
+      "streamingOn": ["Netflix"],
+      "languages": ["English"]
+    }
+  ]
