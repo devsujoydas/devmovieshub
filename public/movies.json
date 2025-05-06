@@ -1,0 +1,113 @@
+[
+    {
+        "image": "https://example.com/images/ironman1.jpg",
+        "title": "Iron Man",
+        "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "cast": [
+            {
+                "name": "Robert Downey Jr.",
+                "castImg": "https://example.com/cast/robert_downey_jr.jpg"
+            },
+            {
+                "name": "Gwyneth Paltrow",
+                "castImg": "https://example.com/cast/gwyneth_paltrow.jpg"
+            },
+            {
+                "name": "Terrence Howard",
+                "castImg": "https://example.com/cast/terrence_howard.jpg"
+            },
+            {
+                "name": "Jeff Bridges",
+                "castImg": "https://example.com/cast/jeff_bridges.jpg"
+            }
+        ],
+        "releasedDate": "2008-05-02",
+        "availableLanguages": [
+            "English",
+            "French",
+            "Spanish",
+            "Hindi"
+        ],
+        "rating": 7.9,
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "director": "Jon Favreau",
+        "music": "Ramin Djawadi"
+    },
+    {
+        "image": "https://example.com/images/ironman2.jpg",
+        "title": "Iron Man 2",
+        "description": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful madman with ties to his father's legacy.",
+        "cast": [
+            {
+                "name": "Robert Downey Jr.",
+                "castImg": "https://example.com/cast/robert_downey_jr.jpg"
+            },
+            {
+                "name": "Gwyneth Paltrow",
+                "castImg": "https://example.com/cast/gwyneth_paltrow.jpg"
+            },
+            {
+                "name": "Don Cheadle",
+                "castImg": "https://example.com/cast/don_cheadle.jpg"
+            },
+            {
+                "name": "Scarlett Johansson",
+                "castImg": "https://example.com/cast/scarlett_johansson.jpg"
+            }
+        ],
+        "releasedDate": "2010-05-07",
+        "availableLanguages": [
+            "English",
+            "French",
+            "Spanish",
+            "Hindi"
+        ],
+        "rating": 7.0,
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "director": "Jon Favreau",
+        "music": "John Debney"
+    },
+    {
+        "image": "https://example.com/images/ironman3.jpg",
+        "title": "Iron Man 3",
+        "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        "cast": [
+            {
+                "name": "Robert Downey Jr.",
+                "castImg": "https://example.com/cast/robert_downey_jr.jpg"
+            },
+            {
+                "name": "Gwyneth Paltrow",
+                "castImg": "https://example.com/cast/gwyneth_paltrow.jpg"
+            },
+            {
+                "name": "Don Cheadle",
+                "castImg": "https://example.com/cast/don_cheadle.jpg"
+            },
+            {
+                "name": "Guy Pearce",
+                "castImg": "https://example.com/cast/guy_pearce.jpg"
+            }
+        ],
+        "releasedDate": "2013-05-03",
+        "availableLanguages": [
+            "English",
+            "French",
+            "Spanish",
+            "Hindi"
+        ],
+        "rating": 7.2,
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "director": "Shane Black",
+        "music": "Brian Tyler"
+    }
+]

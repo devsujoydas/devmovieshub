@@ -18,7 +18,7 @@ const MustWatchShows = () => {
       </div>
 
 
-      <div className="grid grid-cols-5">
+      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-5">
         <div className="border border-zinc-800 bg-[#38383863] md:p-5 pb-2 p-3 rounded-xl md:space-y-4 ">
           <div>
             <Link to={"/movies"}>
