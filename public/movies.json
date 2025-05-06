@@ -1,113 +1,263 @@
 [
     {
-        "image": "https://example.com/images/ironman1.jpg",
-        "title": "Iron Man",
-        "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
-        "cast": [
-            {
-                "name": "Robert Downey Jr.",
-                "castImg": "https://example.com/cast/robert_downey_jr.jpg"
-            },
-            {
-                "name": "Gwyneth Paltrow",
-                "castImg": "https://example.com/cast/gwyneth_paltrow.jpg"
-            },
-            {
-                "name": "Terrence Howard",
-                "castImg": "https://example.com/cast/terrence_howard.jpg"
-            },
-            {
-                "name": "Jeff Bridges",
-                "castImg": "https://example.com/cast/jeff_bridges.jpg"
-            }
-        ],
-        "releasedDate": "2008-05-02",
-        "availableLanguages": [
-            "English",
-            "French",
-            "Spanish",
-            "Hindi"
-        ],
-        "rating": 7.9,
-        "genres": [
-            "Action",
-            "Sci-Fi"
-        ],
-        "director": "Jon Favreau",
-        "music": "Ramin Djawadi"
+      "image": "https://example.com/images/ironman1.jpg",
+      "title": "Iron Man",
+      "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+      "cast": [
+        {
+          "name": "Robert Downey Jr.",
+          "castImg": "https://example.com/cast/robert_downey_jr.jpg"
+        },
+        {
+          "name": "Gwyneth Paltrow",
+          "castImg": "https://example.com/cast/gwyneth_paltrow.jpg"
+        },
+        {
+          "name": "Terrence Howard",
+          "castImg": "https://example.com/cast/terrence_howard.jpg"
+        },
+        {
+          "name": "Jeff Bridges",
+          "castImg": "https://example.com/cast/jeff_bridges.jpg"
+        }
+      ],
+      "releasedDate": "2008-05-02",
+      "availableLanguages": ["English", "French", "Spanish", "Hindi"],
+      "rating": 7.9,
+      "genres": ["Action", "Sci-Fi"],
+      "director": "Jon Favreau",
+      "music": "Ramin Djawadi"
     },
     {
-        "image": "https://example.com/images/ironman2.jpg",
-        "title": "Iron Man 2",
-        "description": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful madman with ties to his father's legacy.",
-        "cast": [
-            {
-                "name": "Robert Downey Jr.",
-                "castImg": "https://example.com/cast/robert_downey_jr.jpg"
-            },
-            {
-                "name": "Gwyneth Paltrow",
-                "castImg": "https://example.com/cast/gwyneth_paltrow.jpg"
-            },
-            {
-                "name": "Don Cheadle",
-                "castImg": "https://example.com/cast/don_cheadle.jpg"
-            },
-            {
-                "name": "Scarlett Johansson",
-                "castImg": "https://example.com/cast/scarlett_johansson.jpg"
-            }
-        ],
-        "releasedDate": "2010-05-07",
-        "availableLanguages": [
-            "English",
-            "French",
-            "Spanish",
-            "Hindi"
-        ],
-        "rating": 7.0,
-        "genres": [
-            "Action",
-            "Sci-Fi"
-        ],
-        "director": "Jon Favreau",
-        "music": "John Debney"
+      "image": "https://example.com/images/ironman2.jpg",
+      "title": "Iron Man 2",
+      "description": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful madman with ties to his father's legacy.",
+      "cast": [
+        {
+          "name": "Robert Downey Jr.",
+          "castImg": "https://example.com/cast/robert_downey_jr.jpg"
+        },
+        {
+          "name": "Gwyneth Paltrow",
+          "castImg": "https://example.com/cast/gwyneth_paltrow.jpg"
+        },
+        {
+          "name": "Don Cheadle",
+          "castImg": "https://example.com/cast/don_cheadle.jpg"
+        },
+        {
+          "name": "Scarlett Johansson",
+          "castImg": "https://example.com/cast/scarlett_johansson.jpg"
+        }
+      ],
+      "releasedDate": "2010-05-07",
+      "availableLanguages": ["English", "French", "Spanish", "Hindi"],
+      "rating": 7.0,
+      "genres": ["Action", "Sci-Fi"],
+      "director": "Jon Favreau",
+      "music": "John Debney"
     },
     {
-        "image": "https://example.com/images/ironman3.jpg",
-        "title": "Iron Man 3",
-        "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
-        "cast": [
-            {
-                "name": "Robert Downey Jr.",
-                "castImg": "https://example.com/cast/robert_downey_jr.jpg"
-            },
-            {
-                "name": "Gwyneth Paltrow",
-                "castImg": "https://example.com/cast/gwyneth_paltrow.jpg"
-            },
-            {
-                "name": "Don Cheadle",
-                "castImg": "https://example.com/cast/don_cheadle.jpg"
-            },
-            {
-                "name": "Guy Pearce",
-                "castImg": "https://example.com/cast/guy_pearce.jpg"
-            }
-        ],
-        "releasedDate": "2013-05-03",
-        "availableLanguages": [
-            "English",
-            "French",
-            "Spanish",
-            "Hindi"
-        ],
-        "rating": 7.2,
-        "genres": [
-            "Action",
-            "Sci-Fi"
-        ],
-        "director": "Shane Black",
-        "music": "Brian Tyler"
+      "image": "https://example.com/images/ironman3.jpg",
+      "title": "Iron Man 3",
+      "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+      "cast": [
+        {
+          "name": "Robert Downey Jr.",
+          "castImg": "https://example.com/cast/robert_downey_jr.jpg"
+        },
+        {
+          "name": "Gwyneth Paltrow",
+          "castImg": "https://example.com/cast/gwyneth_paltrow.jpg"
+        },
+        {
+          "name": "Don Cheadle",
+          "castImg": "https://example.com/cast/don_cheadle.jpg"
+        },
+        {
+          "name": "Guy Pearce",
+          "castImg": "https://example.com/cast/guy_pearce.jpg"
+        }
+      ],
+      "releasedDate": "2013-05-03",
+      "availableLanguages": ["English", "French", "Spanish", "Hindi"],
+      "rating": 7.2,
+      "genres": ["Action", "Sci-Fi"],
+      "director": "Shane Black",
+      "music": "Brian Tyler"
+    },
+    {
+      "image": "https://example.com/images/spiderman_homecoming.jpg",
+      "title": "Spider-Man: Homecoming",
+      "description": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man.",
+      "cast": [
+        {
+          "name": "Tom Holland",
+          "castImg": "https://example.com/cast/tom_holland.jpg"
+        },
+        {
+          "name": "Michael Keaton",
+          "castImg": "https://example.com/cast/michael_keaton.jpg"
+        },
+        {
+          "name": "Robert Downey Jr.",
+          "castImg": "https://example.com/cast/robert_downey_jr.jpg"
+        },
+        {
+          "name": "Zendaya",
+          "castImg": "https://example.com/cast/zendaya.jpg"
+        }
+      ],
+      "releasedDate": "2017-07-07",
+      "availableLanguages": ["English", "Spanish", "Hindi"],
+      "rating": 7.4,
+      "genres": ["Action", "Adventure"],
+      "director": "Jon Watts",
+      "music": "Michael Giacchino"
+    },
+    {
+      "image": "https://example.com/images/spiderman_farfromhome.jpg",
+      "title": "Spider-Man: Far From Home",
+      "description": "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever.",
+      "cast": [
+        {
+          "name": "Tom Holland",
+          "castImg": "https://example.com/cast/tom_holland.jpg"
+        },
+        {
+          "name": "Jake Gyllenhaal",
+          "castImg": "https://example.com/cast/jake_gyllenhaal.jpg"
+        },
+        {
+          "name": "Zendaya",
+          "castImg": "https://example.com/cast/zendaya.jpg"
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "castImg": "https://example.com/cast/samuel_l_jackson.jpg"
+        }
+      ],
+      "releasedDate": "2019-07-02",
+      "availableLanguages": ["English", "Spanish", "Hindi"],
+      "rating": 7.5,
+      "genres": ["Action", "Adventure"],
+      "director": "Jon Watts",
+      "music": "Michael Giacchino"
+    },
+    {
+      "image": "https://example.com/images/doctor_strange.jpg",
+      "title": "Doctor Strange",
+      "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+      "cast": [
+        {
+          "name": "Benedict Cumberbatch",
+          "castImg": "https://example.com/cast/benedict_cumberbatch.jpg"
+        },
+        {
+          "name": "Chiwetel Ejiofor",
+          "castImg": "https://example.com/cast/chiwetel_ejiofor.jpg"
+        },
+        {
+          "name": "Rachel McAdams",
+          "castImg": "https://example.com/cast/rachel_mcadams.jpg"
+        },
+        {
+          "name": "Tilda Swinton",
+          "castImg": "https://example.com/cast/tilda_swinton.jpg"
+        }
+      ],
+      "releasedDate": "2016-11-04",
+      "availableLanguages": ["English", "French", "Spanish"],
+      "rating": 7.5,
+      "genres": ["Action", "Fantasy"],
+      "director": "Scott Derrickson",
+      "music": "Michael Giacchino"
+    },
+    {
+      "image": "https://example.com/images/thor.jpg",
+      "title": "Thor",
+      "description": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+      "cast": [
+        {
+          "name": "Chris Hemsworth",
+          "castImg": "https://example.com/cast/chris_hemsworth.jpg"
+        },
+        {
+          "name": "Natalie Portman",
+          "castImg": "https://example.com/cast/natalie_portman.jpg"
+        },
+        {
+          "name": "Tom Hiddleston",
+          "castImg": "https://example.com/cast/tom_hiddleston.jpg"
+        },
+        {
+          "name": "Anthony Hopkins",
+          "castImg": "https://example.com/cast/anthony_hopkins.jpg"
+        }
+      ],
+      "releasedDate": "2011-05-06",
+      "availableLanguages": ["English", "French", "Spanish"],
+      "rating": 7.0,
+      "genres": ["Action", "Fantasy"],
+      "director": "Kenneth Branagh",
+      "music": "Patrick Doyle"
+    },
+    {
+      "image": "https://example.com/images/antman.jpg",
+      "title": "Ant-Man",
+      "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero.",
+      "cast": [
+        {
+          "name": "Paul Rudd",
+          "castImg": "https://example.com/cast/paul_rudd.jpg"
+        },
+        {
+          "name": "Evangeline Lilly",
+          "castImg": "https://example.com/cast/evangeline_lilly.jpg"
+        },
+        {
+          "name": "Michael Douglas",
+          "castImg": "https://example.com/cast/michael_douglas.jpg"
+        },
+        {
+          "name": "Corey Stoll",
+          "castImg": "https://example.com/cast/corey_stoll.jpg"
+        }
+      ],
+      "releasedDate": "2015-07-17",
+      "availableLanguages": ["English", "Spanish"],
+      "rating": 7.3,
+      "genres": ["Action", "Comedy"],
+      "director": "Peyton Reed",
+      "music": "Christophe Beck"
+    },
+    {
+      "image": "https://example.com/images/antman_and_the_wasp.jpg",
+      "title": "Ant-Man and The Wasp",
+      "description": "As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission.",
+      "cast": [
+        {
+          "name": "Paul Rudd",
+          "castImg": "https://example.com/cast/paul_rudd.jpg"
+        },
+        {
+          "name": "Evangeline Lilly",
+          "castImg": "https://example.com/cast/evangeline_lilly.jpg"
+        },
+        {
+          "name": "Michael Douglas",
+          "castImg": "https://example.com/cast/michael_douglas.jpg"
+        },
+        {
+          "name": "Michelle Pfeiffer",
+          "castImg": "https://example.com/cast/michelle_pfeiffer.jpg"
+        }
+      ],
+      "releasedDate": "2018-07-06",
+      "availableLanguages": ["English", "Spanish"],
+      "rating": 7.1,
+      "genres": ["Action", "Comedy"],
+      "director": "Peyton Reed",
+      "music": "Christophe Beck"
     }
-]
+  ]
