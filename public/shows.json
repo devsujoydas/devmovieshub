@@ -1,0 +1,227 @@
+[
+    {
+      "title": "Stranger Things",
+      "image": "https://example.com/images/stranger_things.jpg",
+      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+      "cast": [
+        {
+          "name": "Millie Bobby Brown",
+          "castImg": "https://example.com/cast/millie_bobby_brown.jpg",
+          "character": "Eleven"
+        },
+        {
+          "name": "Finn Wolfhard",
+          "castImg": "https://example.com/cast/finn_wolfhard.jpg",
+          "character": "Mike Wheeler"
+        },
+        {
+          "name": "Winona Ryder",
+          "castImg": "https://example.com/cast/winona_ryder.jpg",
+          "character": "Joyce Byers"
+        }
+      ],
+      "seasons": 4,
+      "releasedYear": 2016,
+      "rating": 8.7,
+      "genres": ["Sci-Fi", "Horror", "Drama"],
+      "streamingOn": "Netflix",
+      "language": "English"
+    },
+    {
+      "title": "Money Heist",
+      "image": "https://example.com/images/money_heist.jpg",
+      "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+      "cast": [
+        {
+          "name": "Úrsula Corberó",
+          "castImg": "https://example.com/cast/ursula_corbero.jpg",
+          "character": "Tokyo"
+        },
+        {
+          "name": "Álvaro Morte",
+          "castImg": "https://example.com/cast/alvaro_morte.jpg",
+          "character": "The Professor"
+        }
+      ],
+      "seasons": 5,
+      "releasedYear": 2017,
+      "rating": 8.2,
+      "genres": ["Crime", "Thriller"],
+      "streamingOn": "Netflix",
+      "language": "Spanish"
+    },
+    {
+      "title": "Lucifer",
+      "image": "https://example.com/images/lucifer.jpg",
+      "description": "Lucifer Morningstar, the Devil, abandons Hell for Los Angeles where he runs his own nightclub and becomes a consultant to the LAPD.",
+      "cast": [
+        {
+          "name": "Tom Ellis",
+          "castImg": "https://example.com/cast/tom_ellis.jpg",
+          "character": "Lucifer Morningstar"
+        },
+        {
+          "name": "Lauren German",
+          "castImg": "https://example.com/cast/lauren_german.jpg",
+          "character": "Chloe Decker"
+        }
+      ],
+      "seasons": 6,
+      "releasedYear": 2016,
+      "rating": 8.1,
+      "genres": ["Fantasy", "Crime", "Drama"],
+      "streamingOn": "Netflix",
+      "language": "English"
+    },
+    {
+      "title": "Gray Man",
+      "image": "https://example.com/images/gray_man.jpg",
+      "description": "When a shadowy CIA agent uncovers damning agency secrets, he's hunted across the globe by a sociopathic rogue operative who's put a bounty on his head.",
+      "cast": [
+        {
+          "name": "Ryan Gosling",
+          "castImg": "https://example.com/cast/ryan_gosling.jpg",
+          "character": "Court Gentry"
+        },
+        {
+          "name": "Chris Evans",
+          "castImg": "https://example.com/cast/chris_evans.jpg",
+          "character": "Lloyd Hansen"
+        }
+      ],
+      "type": "Movie",
+      "releasedYear": 2022,
+      "rating": 6.5,
+      "genres": ["Action", "Thriller"],
+      "streamingOn": "Netflix",
+      "language": "English"
+    },
+    {
+      "title": "High Town",
+      "image": "https://example.com/images/high_town.jpg",
+      "description": "A Cape Cod fishing town's sober women struggles to put her life back together when the discovery of a body draws her into a murder investigation.",
+      "cast": [
+        {
+          "name": "Monica Raymund",
+          "castImg": "https://example.com/cast/monica_raymund.jpg",
+          "character": "Jackie Quiñones"
+        }
+      ],
+      "seasons": 2,
+      "releasedYear": 2020,
+      "rating": 7.2,
+      "genres": ["Crime", "Drama"],
+      "streamingOn": "Starz",
+      "language": "English"
+    },
+    {
+      "title": "Mirzapur",
+      "image": "https://example.com/images/mirzapur.jpg",
+      "description": "The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur. His son, Munna, is an unworthy, power-hungry heir.",
+      "cast": [
+        {
+          "name": "Pankaj Tripathi",
+          "castImg": "https://example.com/cast/pankaj_tripathi.jpg",
+          "character": "Kaleen Bhaiya"
+        },
+        {
+          "name": "Ali Fazal",
+          "castImg": "https://example.com/cast/ali_fazal.jpg",
+          "character": "Guddu Pandit"
+        }
+      ],
+      "seasons": 2,
+      "releasedYear": 2018,
+      "rating": 8.4,
+      "genres": ["Crime", "Action", "Drama"],
+      "streamingOn": "Amazon Prime Video",
+      "language": "Hindi"
+    },
+    {
+      "title": "Breathe: Into The Shadows",
+      "image": "https://example.com/images/breathe.jpg",
+      "description": "A psychiatrist's life turns upside down when his 6-year-old daughter is kidnapped. He then embarks on a journey to save her.",
+      "cast": [
+        {
+          "name": "Abhishek Bachchan",
+          "castImg": "https://example.com/cast/abhishek_bachchan.jpg",
+          "character": "Dr. Avinash Sabharwal"
+        },
+        {
+          "name": "Amit Sadh",
+          "castImg": "https://example.com/cast/amit_sadh.jpg",
+          "character": "Kabir Sawant"
+        }
+      ],
+      "seasons": 2,
+      "releasedYear": 2020,
+      "rating": 6.9,
+      "genres": ["Thriller", "Crime"],
+      "streamingOn": "Amazon Prime Video",
+      "language": "Hindi"
+    },
+    {
+      "title": "Peaky Blinders",
+      "image": "https://example.com/images/peaky_blinders.jpg",
+      "description": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
+      "cast": [
+        {
+          "name": "Cillian Murphy",
+          "castImg": "https://example.com/cast/cillian_murphy.jpg",
+          "character": "Thomas Shelby"
+        },
+        {
+          "name": "Helen McCrory",
+          "castImg": "https://example.com/cast/helen_mccrory.jpg",
+          "character": "Polly Gray"
+        }
+      ],
+      "seasons": 6,
+      "releasedYear": 2013,
+      "rating": 8.8,
+      "genres": ["Crime", "Drama"],
+      "streamingOn": "Netflix",
+      "language": "English"
+    },
+    {
+      "title": "Duranga",
+      "image": "https://example.com/images/duranga.jpg",
+      "description": "A remake of the Korean drama 'Flower of Evil', following a woman who begins to suspect her perfect husband may be hiding a dark secret.",
+      "cast": [
+        {
+          "name": "Drishyam 2",
+          "castImg": "https://example.com/cast/drishyam.jpg",
+          "character": "Sammit Patel"
+        },
+        {
+          "name": "Gulshan Devaiah",
+          "castImg": "https://example.com/cast/gulshan_devaiah.jpg",
+          "character": "Abhishek Banne"
+        }
+      ],
+      "seasons": 1,
+      "releasedYear": 2022,
+      "rating": 7.5,
+      "genres": ["Thriller", "Drama"],
+      "streamingOn": "ZEE5",
+      "language": "Hindi"
+    },
+    {
+      "title": "Mai",
+      "image": "https://example.com/images/mai.jpg",
+      "description": "A grieving mother discovers the truth about her daughter's death and transforms from a docile wife to a woman seeking answers.",
+      "cast": [
+        {
+          "name": "Sakshi Tanwar",
+          "castImg": "https://example.com/cast/sakshi_tanwar.jpg",
+          "character": "Sheel"
+        }
+      ],
+      "seasons": 1,
+      "releasedYear": 2022,
+      "rating": 7.8,
+      "genres": ["Thriller", "Drama"],
+      "streamingOn": "Netflix",
+      "language": "Hindi"
+    }
+  ]
